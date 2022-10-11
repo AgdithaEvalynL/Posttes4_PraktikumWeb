@@ -1,0 +1,23 @@
+
+.container{
+    background-color: rgb(180, 149, 129);
+    margin:100px;
+}
+
+.date{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family:'Courier New', Courier, monospace
+}
+
+body{
+    background-color: rgb(123, 87, 58);
+}
+
+.daftar{
+    padding: 20px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
